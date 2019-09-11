@@ -1,7 +1,7 @@
 # kthfs
 Exercise1 : 
   Place exc1 folder under src.
-  all topics.png shows the plot of active topics.
+  /The image all topics.png shows the plot of active topics.
   
 Exercise2 :
   There is jupyter notebook file and also the python script.
