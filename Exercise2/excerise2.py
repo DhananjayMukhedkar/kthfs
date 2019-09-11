@@ -11,9 +11,9 @@ from itertools import count
 from matplotlib.animation import FuncAnimation
 import random
 import time
-get_ipython().run_line_magic('matplotlib', 'notebook')
-get_ipython().run_line_magic('matplotlib', 'notebook')
-plt.rcParams['animation.html']='jshtml'
+#get_ipython().run_line_magic('matplotlib', 'notebook')
+#get_ipython().run_line_magic('matplotlib', 'notebook')
+#plt.rcParams['animation.html']='jshtml'
 
 class Calculation:
    
