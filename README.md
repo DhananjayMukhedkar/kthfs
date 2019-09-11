@@ -4,5 +4,4 @@ Exercise1 :
   
 Exercise2 :
   There is jupyter notebook file and also the python script.
-  Apparently there are some library dependencies of Animation library due to which it does not run sometimes.
-  However I am getting the output on my local .Debugging in progresss.
+  I am currently getting the output on my local notebook file.  However apparently there are some library dependencies of Animation     library due to which it does not run sometimes .I am trying to debug.
