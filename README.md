@@ -1,9 +1,3 @@
 # kthfs
-Exercise1 : 
-  Place exc1 folder under src.
- The image all topics.png shows the plot of active topics.
-  
-Exercise2 :
-  There is jupyter notebook file and also the python script.
-  I am currently getting the output on my local with Python2.7.  However apparently there are some library dependencies of Animation library due to which it does not run sometimes .I am trying to debug.
-The ex2_animation3.mp4 shows a small recording of the live plotting .
+Task for Week 2 
+  Please refer folder task_week2 which has a python script kalmanFilter.py .Please note that code DOES NOT RUN.It is still    incomplete.The idea was to implement a Kalman Filter from sctrach.
